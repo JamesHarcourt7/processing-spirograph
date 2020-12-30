@@ -1,5 +1,7 @@
 # :star2: Processing Spirograph :star2:
 
+![GitHub top language](https://img.shields.io/github/languages/top/JamesHarcourt7/processing-spirograph?style=flat-square)
+
 Intended as a solution for Space Cadets Challenge 5 [see challenge 1](https://github.com/JamesHarcourt7/name-scraper), using processing instead of purely java.
 
 [Spirographs](https://en.wikipedia.org/wiki/Spirograph#Mathematical_basis) can create some beautiful and seemingly complex designs. These designs can be summarised in equations (taken from the challenge brief) of the form:
