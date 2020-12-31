@@ -16,8 +16,8 @@ The aim of this project was to learn how to use [processing](https://processing.
 
 ## Example Patterns:
 
-![farfalle](/examples/farfalle.png)
+![farfalle](https://github.com/JamesHarcourt7/processing-spirograph/blob/main/examples/farfalle.PNG)
 
-![blue_ring](/examples/blue.png)
+![blue_ring](https://github.com/JamesHarcourt7/processing-spirograph/blob/main/examples/blue.PNG)
 
-![star](/examples/star.png)
+![star](https://github.com/JamesHarcourt7/processing-spirograph/blob/main/examples/star.PNG)
