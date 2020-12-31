@@ -13,3 +13,11 @@ y = (R-r)*sin(t) - O*sin(((R-r)/r)*t)
 Where R is the radius of the fixed circle, r is the radius of the moving circle and O is the offset of the pen point in the moving circle.
 
 The aim of this project was to learn how to use [processing](https://processing.org/), an open source graphical library I would like to use in future projects. I have not used many graphical libraries apart from pygame, so it is useful to get familiar with another that uses Java. I also thought this would be an entertaining and visually pleasing challenge to attempt. 
+
+## Example Patterns:
+
+![farfalle](/examples/farfalle.png)
+
+![blue_ring](/examples/blue.png)
+
+![star](/examples/star.png)
